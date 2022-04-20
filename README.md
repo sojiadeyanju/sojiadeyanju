@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sojiadeyanju
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning AWS & Azure
+- 🌱 I’m currently learning AWS DevOps & Azure DevOps
 - 💞️ I’m looking to collaborate on any Software project
 - 📫 How to reach me - sojadeyanju@gmail.com
 <!---
