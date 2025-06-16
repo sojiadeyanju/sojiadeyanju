@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sojiadeyanju
-- 👀 I’m interested in DevOps, GitOps & AIOps
+- 👀 I’m interested in DevOps, SRE, GitOps & AIOps
 - 🌱 I’m currently working with AWS & Azure
 - 💞️ I’m looking to collaborate on any Software project
 - 📫 How to reach me - ade@adeyanju.me
